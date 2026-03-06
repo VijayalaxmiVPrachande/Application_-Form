@@ -1,0 +1,4 @@
+com\form\repository\ApplicantRepository.class
+com\form\controller\ApplicantController.class
+com\form\model\Applicant.class
+com\form\FormApplication.class
